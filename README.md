@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I’m currently working on:
+- C++ Gravitiation Simulation project for my OOP classes
+- Developing my porfolio website
+
 <!--
 **ShOOmet14/ShOOmet14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
