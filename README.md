@@ -3,8 +3,6 @@
 I’m currently working on:
 - C++ Gravitiation Simulation project for my OOP classes
 - Developing my porfolio website
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shoomet14" alt="shoomet14" />
 <!--
 **ShOOmet14/ShOOmet14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
