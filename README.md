@@ -11,7 +11,7 @@ I am currently working on an interactive web application for visualising electro
 My next goal is to expand into Machine Learning through practical projects, preferably using scientific datasets such as CERN Open Data.
 
 ## Technologies
-Python • C++ • TypeScript • JavaScript • React • NumPy • Matplotlib • Git • GitHub
+Python • C++ • TypeScript • JavaScript • React •  Git • Mathematica
 
 ## Links
 [Portfolio](https://www.shoomet.com/)
