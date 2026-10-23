@@ -12,7 +12,7 @@ My next goal is to build practical experience in machine learning through projec
 
 ## Technologies
 
-Python • C++ • TypeScript • JavaScript • React • Git • Mathematica
+Python • C++ • TypeScript • JavaScript • React • Git
 
 ## Links
 
